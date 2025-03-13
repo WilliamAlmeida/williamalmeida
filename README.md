@@ -9,7 +9,7 @@ Atualmente, estou focado em explorar automações, especialmente para integrar s
 
 Sou criador de projetos como [IBOX DELIVERY](https://ibox.delivery), um sistema de Delivery. Além disso, já desenvolvi diversas aplicações completas utilizando **Laravel**, mostrando proficiência tanto no backend quanto no frontend.  
 
-No momento, estou trabalhando em [AI CLINIC](https://clinic.ibox.delivery), um SaaS voltado para gestão de Clínicas Médicas integrado com IA fornecendo automações para Chat Bots, e continuo expandindo minhas habilidades para oferecer ferramentas e serviços de alta qualidade.
+No momento, estou trabalhando em [AI CLINIC](https://agendaclinic.com), um SaaS voltado para gestão de Clínicas Médicas integrado com IA fornecendo automações para Chat Bots, e continuo expandindo minhas habilidades para oferecer ferramentas e serviços de alta qualidade.
 
 Fora do trabalho, gosto de **ATIVIDADES** e sempre busco inspiração em novas experiências.
 
